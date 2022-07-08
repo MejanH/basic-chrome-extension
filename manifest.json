@@ -18,6 +18,5 @@
       "resources": ["images/*"],
       "matches": ["*://*.nimdone.com/*"]
     }
-  ],
-  "permissions": ["storage", "tabs", "webRequest", "*://*.nimdone.com/*"]
+  ]
 }
